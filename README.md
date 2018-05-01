@@ -12,12 +12,13 @@ Microsoft Bot FrameworkとMicrosoft Cognitive Servicesでインテリジェン�
 .Net Framework 4.6  
 Microsoft.Bot.Builder v3.15  
 Microsoft Azure Subscription  
-  
-  
-## インストール：
- 各バージョンのプロジェクトをVisual Studioで開いてください。
- 
+
 
 ## 使い方：
 <a href="https://thinkit.co.jp/series/6702" target="_blank">Think IT 「Microsoft Bot Frameworkで作るChatbot」</a>  
 
+
+## インストール：
+各バージョンのプロジェクトをVisual Studioで開いてください。  
+「使い方」の各章の番号とサンプルプロジェクトの番号が対応しています。 
+ 
