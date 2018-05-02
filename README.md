@@ -1,6 +1,6 @@
-# Chatbot201707
+﻿# Chatbotの育て方
 
-Microsoft Bot Frameworkで作るChatbot 
+～Microsoft Bot Frameworkで作るChatbot～ 
 
 ## 特徴：
 Microsoft Bot Frameworkで作るChatbotとして、基本であるダイアログの機能、複数のダイアログの連携方法、FormFlowを理解するためのサンプルコードです。  
@@ -15,7 +15,11 @@ Microsoft Azure Subscription
 
 
 ## 使い方：
-<a href="https://thinkit.co.jp/series/6702" target="_blank">Think IT Microsoft Bot Frameworkで作るChatbot</a>  
+<a href="https://thinkit.co.jp/series/6702" target="_blank">Think IT 「Microsoft Bot Frameworkで作るChatbot」</a>   
+   
+※連載第7回まではBot FrameworkのポータルサイトでChatbotの管理を行っていましたが、Microsoft Azureに統合されることとなりました。   
+<a href="https://portal.azure.com/#blade/HubsExtension/Resources/resourceType/Microsoft.BotService%2FbotServices" target="_blank">Microsoft Azure Bot Service</a>   
+Microsoft Azure Bot ServiceにおいてもChatbotの登録、管理方法は同じ方法となります。
 
 
 ## インストール：
