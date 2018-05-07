@@ -31,3 +31,5 @@ Microsoft Azure Bot ServiceにおいてもChatbotの登録、管理方法は同�
 
 © InvokeV All rights reserved.   
 本コンテンツの著作権、および本コンテンツ中に出てくる商標権、団体名、ロゴ、製品、サービスなどはそれぞれ、各権利保有者に帰属します。
+
+[問い合わせ先：InvokeV](<mailto:mail.invokev@gmail.com>)
